@@ -1,4 +1,4 @@
-
+nefarious == evil
 lackadaisical
 minutiae
 ligature
@@ -8,3 +8,5 @@ sycophantic
 obsequious
 quasi-internalized
 sesquipedalian
+run afoul == conflict
+ubiquitous == universal
